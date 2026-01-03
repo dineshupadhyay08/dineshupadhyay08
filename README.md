@@ -73,7 +73,7 @@ I enjoy building real-world projects, improving UI/UX, and learning new technolo
 
 ## 🔗 Connect With Me
 
-- 💼 GitHub: https://github.com/your-username  
+- 💼 GitHub: https://github.com/dineshupadhyay08  
 - 📧 Email: dineshupadhyay666@gmail.com  
 - 💬 Portfolio: [https://dinesh-upadhyay-portfolio-jbh1.vercel.app](https://dinesh-upadhyay-portfolio-jbh1.vercel.app)
 
