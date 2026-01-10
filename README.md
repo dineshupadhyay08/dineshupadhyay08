@@ -1,6 +1,6 @@
 
 
-## 👋 Hi, I’m @DineshUpadhyay.  
+## 👋 Hi, I’m @DineshUpadhyay
 Welcome to my GitHub account!
 
 
