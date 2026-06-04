@@ -4,7 +4,7 @@
 Welcome to my GitHub account!
 
 
-lkj
+lk
 ### 👨‍💻 About Me
 
 I am passionate about technology and programming, with a strong interest in full-stack web development and modern tools.
